@@ -1,4 +1,4 @@
-# Simple Task Manager
+# Task management API with authentication, filtering, and REST endpoints
 
 Простой консольный менеджер задач для практики работы с Git.
 
